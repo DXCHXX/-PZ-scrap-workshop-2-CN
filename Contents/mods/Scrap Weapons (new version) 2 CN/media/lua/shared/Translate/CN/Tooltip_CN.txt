@@ -1,0 +1,52 @@
+Tooltip_CN = {
+--magazines
+	Tooltip_WeaponMag1 				= "制作穿透头骨的武器",
+	Tooltip_WeaponMag2 				= "教授如何制作临时匕首",
+	Tooltip_WeaponMag3 				= "教授如何制作钝器",
+	Tooltip_WeaponMag4 				= "教授如何制作野蛮斧头类武器",
+	Tooltip_WeaponMag5 				= "教授如何制作长矛武器",
+	Tooltip_WeaponMag6 				= "教授如何使用文件制作长刀武器",
+--2x4
+	Tooltip_2x4UpgradedAxe 			= "升级后的木板（斧头）",
+	Tooltip_2x4UpgradedShortBlunt 	= "升级后的木板（短钝器）",
+--shortblade
+	Tooltip_SharpenedScrewdriver 	= "像有柄的尖刺（短刀）",
+	Tooltip_GlassShiv 				= "非常脆弱但有效（短刀）",
+	Tooltip_ScrapShiv 				= "粗糙但有效（短刀）",
+	Tooltip_SalvagedShiv 			= "锋利的（短刀）",
+--spears
+	Tooltip_SpearUpgraded 			= "升级后的长矛",
+	Tooltip_SpearSalvaged 			= "极其坚固的长矛，带有锋利刀刃",
+	Tooltip_ScrapSpear 				= "带有刀刃的木长矛",
+--axe
+	Tooltip_ScrapPickaxe 			= "带有大尖刺的桌腿（斧头）",
+	Tooltip_PipewithScissors 		= "带有剪刀的管道（斧头）",
+	Tooltip_ScrapAxe 				= "可以砍树也能砍敌人（斧头）",
+	Tooltip_SalvagedClimbingAxe 	= "可以穿透头骨（破门器）（斧头）",
+	Tooltip_SharpenedStopSign 		= "不要停下...去杀死他们！（斧头）",
+	Tooltip_HugeScrapPickaxe		= "带有大尖刺的管道（斧头）",
+
+--shortblunt
+	Tooltip_ScrapClub				= "用废料制成的棍棒（短钝器）",
+	Tooltip_SalvagedClub			= "带链条的升级棍棒（短钝器）",
+--blunt
+	Tooltip_SalvagedCrowbar 		= "升级的撬棍（破门器）（长钝器）",
+	Tooltip_BoltBat 				= "带螺栓的棒球棒（长钝器）",
+	Tooltip_ChainBat 				= "带链条的棒球棒（长钝器）",
+	Tooltip_SalvagedPipe 			= "加长且坚固的管道（长钝器）",
+	Tooltip_TinCanClub				= "自制的狼牙棒？（长钝器）",
+	Tooltip_SalvagedSledgehammer 	= "极重的破骨锤（长钝器）",
+	Tooltip_GearMace 				= "极重的碎颅锤（长钝器）",
+	Tooltip_WireBat 				= "带电线的棒球棒（长钝器）",
+	Tooltip_Micromaul 				= "一根微波炉（长钝器）",
+--longblade
+	Tooltip_ScrapSword 				= "沉重的剑（长刀）",
+	Tooltip_ScrapMachete 			= "用废料制成的砍刀（长刀）",
+	Tooltip_SalvagedNightstick 		= "由于剪裁问题无法附着（长刀）",
+	Tooltip_SalvagedMachete 		= "精心制作的僵尸切割器（长刀）",
+	Tooltip_ScrapBlade 				= "粗糙但锋利（长刀）",
+	Tooltip_SalvagedBlade 			= "自制的武士刀（长刀）",
+	Tooltip_SalvagedCleaver 		= "极重的菜刀（长刀）",
+
+
+} 	

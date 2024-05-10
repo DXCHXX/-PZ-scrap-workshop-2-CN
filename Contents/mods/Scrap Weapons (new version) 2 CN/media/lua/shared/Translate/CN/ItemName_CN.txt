@@ -1,0 +1,61 @@
+ItemName_CN = {
+--magazines
+    ItemName_SWeapons.WeaponMag1 				= "末日幸存者志 第1期（基础）",
+	ItemName_SWeapons.WeaponMag2 				= "末日幸存者志 第2期（匕首）",
+	ItemName_SWeapons.WeaponMag3 				= "末日幸存者志 第3期（钝器）",
+	ItemName_SWeapons.WeaponMag4 				= "荒野勇士志 第1期（斧头）",
+	ItemName_SWeapons.WeaponMag5 				= "荒野勇士志 第2期（长矛）",
+	ItemName_SWeapons.WeaponMag6 				= "荒野勇士志 第3期（刀剑）",
+--2x4
+	ItemName_SWeapons.2x4 						= "2x4",
+	ItemName_SWeapons.2x4Can 					= "2x4 罐头",
+	ItemName_SWeapons.2x4Nail 					= "2x4 钉子",
+	ItemName_SWeapons.2x4Bolt 					= "2x4 螺丝",
+	ItemName_SWeapons.2x4Scissors 				= "2x4 剪刀",
+	ItemName_SWeapons.2x4Screwdriver 			= "2x4 螺丝刀",
+	ItemName_SWeapons.2x4SScrewdriver 			= "2x4 螺丝刀",
+--shortblade
+	ItemName_SWeapons.SharpenedScrewdriver 		= "磨利的螺丝刀",
+	ItemName_SWeapons.GlassShiv 				= "玻璃匕首",
+	ItemName_SWeapons.ScrapShiv 				= "废金属匕首",
+	ItemName_SWeapons.SalvagedShiv 				= "回收匕首",
+	ItemName_SWeapons.SalvagedShivO 			= "回收匕首",
+--spear
+	ItemName_SWeapons.SpearSharpenedScrewdriver = "带磨利螺丝刀的长矛",
+	ItemName_SWeapons.SpearScrapShiv 			= "带废金属匕首的长矛",
+	ItemName_SWeapons.SpearScrapMachete 		= "带废金属砍刀的长矛",
+	ItemName_SWeapons.SpearSalvaged 			= "回收长矛",
+	ItemName_SWeapons.ScrapSpear 				= "废金属长矛",
+--axe
+	ItemName_SWeapons.ScrapPickaxe 				= "废金属镐",
+	ItemName_SWeapons.BigScrapPickaxe 			= "大废金属镐",
+	ItemName_SWeapons.PipewithScissors 			= "带剪刀的管道",
+	ItemName_SWeapons.TireIronAxe 				= "轮胎铁斧",
+	ItemName_SWeapons.SalvagedPipeWrench 		= "回收管钳",
+	ItemName_SWeapons.SalvagedClimbingAxe 		= "回收攀登斧",
+	ItemName_SWeapons.SharpenedStopSign 		= "磨利的停车标志",
+	ItemName_SWeapons.HugeScrapPickaxe 			= "巨型废金属镐",
+--shortblunt
+	ItemName_SWeapons.ScrapClub 				= "废金属棍",
+	ItemName_SWeapons.SalvagedClub				= "回收棍",
+--blunt
+	ItemName_SWeapons.SalvagedCrowbar 			= "回收撬棍",
+	ItemName_SWeapons.BoltBat 					= "棒球棒",
+	ItemName_SWeapons.ChainBat 					= "棒球棒",
+	ItemName_SWeapons.SalvagedPipe 				= "回收管道",
+	ItemName_SWeapons.TinCanClub 				= "易拉罐棍",
+	ItemName_SWeapons.SalvagedSledgehammer 		= "回收大锤",
+	ItemName_SWeapons.GearMace 					= "齿轮狼牙棒",
+	ItemName_SWeapons.WireBat 					= "棒球棒",
+	ItemName_SWeapons.Micromaul 				= "微型大锤",
+--longblade
+	ItemName_SWeapons.ScrapSword 				= "废金属剑",
+	ItemName_SWeapons.ScrapMachete 				= "废金属砍刀",
+	ItemName_SWeapons.SalvagedNightstick 		= "回收警棍",
+	ItemName_SWeapons.SalvagedMachete 			= "回收砍刀",
+	ItemName_SWeapons.ScrapBlade 				= "废金属刀刃",
+	ItemName_SWeapons.SalvagedBlade 			= "回收刀刃",
+	ItemName_SWeapons.SalvagedCleaver 			= "回收菜刀",
+	
+}
+

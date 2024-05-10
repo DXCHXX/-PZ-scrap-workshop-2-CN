@@ -1,0 +1,21 @@
+Tooltip_CN = {
+--workshop
+	Tooltip_HugePropaneTank 	= "仅能用拖车移动",
+	Tooltip_MetalWorkbench 		= "用于拆解标签页中的所有配方",
+	Tooltip_MetalParts 			= "小块废金属",
+	Tooltip_LargeBolt 			= "像钉子但大得多",
+	Tooltip_File				= "用于磨利刀片等",
+	Tooltip_Pliers 				= "可用于拆卸小型物品",
+	Tooltip_MetalCutter			= "用于切割金属板",
+	Tooltip_Motor				= "小型发动机",
+--equipment
+	Tooltip_Toolbelt			= "允许储存多种工具",
+--smelting
+
+--magazines
+	Tooltip_WorkshopMag1 		= "教授如何拆解金属物品",
+	Tooltip_WorkshopMag2 		= "教授如何拆解武器和工具",
+	Tooltip_WorkshopMag3 		= "教授如何制作丙烷气炉及使用方法",
+	Tooltip_WorkshopMag4 		= "教授如何拆解汽车零件获取废料",
+	Tooltip_WorkshopMag5 		= "教授如何拆解复杂物品",
+}

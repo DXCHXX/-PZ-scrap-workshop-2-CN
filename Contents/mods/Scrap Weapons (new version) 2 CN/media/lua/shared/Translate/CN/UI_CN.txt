@@ -1,0 +1,6 @@
+UI_CN = {
+    UI_trait_preparedscrapweapons = "备战：废金属武器",
+    UI_trait_preparedscrapweaponsdesc = "末日来临前，你收集了一些临时武器。<br>游戏开始时，你的背包里有2把不错的废金属武器。",
+	UI_trait_scrapwarrior = "废金属战士",
+    UI_trait_scrapwarriordesc = "你掌握了废金属战士的技巧。<br>+1 金属加工<br>能制作基础的废金属武器。",
+}

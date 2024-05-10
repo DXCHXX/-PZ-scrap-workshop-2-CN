@@ -1,0 +1,82 @@
+ItemName_CN = {
+--shields
+    ItemName_Base.ScrapShield 				= "废金属盾",
+	ItemName_Base.ScrapShieldPainted1 		= "废金属盾",
+	ItemName_Base.ScrapShieldPainted2 		= "废金属盾",
+	ItemName_Base.ScrapShieldPainted3 		= "废金属盾",
+	ItemName_Base.CarDoorShield 			= "汽车门盾",
+	ItemName_Base.CarDoorShield1 			= "汽车门盾",
+	ItemName_Base.CarDoorShield2 			= "汽车门盾",
+	ItemName_Base.WoodenShield 				= "木盾",
+--magazines
+	ItemName_SArmor.ArmorMag1				= "末日骑士志 第1期",
+	ItemName_SArmor.ArmorMag2				= "自我保护 第1期",
+	ItemName_SArmor.ArmorMag3 				= "末日骑士志 第2期",
+	ItemName_SArmor.ArmorMag4				= "末日骑士志 第3期",
+	ItemName_SArmor.ArmorMag5				= "末日骑士志 第???期",
+--backpacks
+	ItemName_Base.Rucksack					= "旅行背包",
+--equipment
+	ItemName_Base.SwordSheath				= "剑鞘",
+	ItemName_Base.ScrapLegPouchL			= "左腿袋",
+	ItemName_Base.ScrapLegPouchR			= "右腿袋",
+
+---armor
+--scraphandplates
+	ItemName_Base.ScrapHandPlate2R			= "右侧废金属手板",
+	ItemName_Base.ScrapHandPlate2L			= "左侧废金属手板",
+	ItemName_Base.ScrapHandPlateR			= "右侧加固手板",
+	ItemName_Base.ScrapHandPlateL			= "左侧加固手板",
+	ItemName_Base.ScrapHandPlateStuddedR	= "右侧带钉废金属手板",
+	ItemName_Base.ScrapHandPlateStuddedL	= "左侧带钉废金属手板",
+--scraphelmets
+	ItemName_Base.Hat_ScrapKettleHelmet		= "废金属水壶头盔",
+	ItemName_Base.Hat_ScrapHelmet			= "废金属头盔",
+	ItemName_Base.Hat_ScrapHelmetopen		= "废金属头盔（开放式）",
+	ItemName_Base.Hat_MotorcycleHelmet2		= "摩托车头盔",
+	ItemName_Base.Hat_WelderMask2			= "废金属猫焊接面具",
+	ItemName_Base.Hat_MotorcycleHelmet2open	= "摩托车头盔（开放式）",
+	ItemName_Base.Hat_Rebreather			= "再生呼吸器",
+--scrapkilts
+	ItemName_Base.ScrapKiltSign				= "带标志的废金属裙",
+	ItemName_Base.ScrapKiltPlated			= "镀板废金属裙",
+	ItemName_Base.ScrapKiltStudded			= "带钉废金属裙",
+	ItemName_Base.ScrapKilt					= "废金属裙",
+--scraplegpads
+	ItemName_Base.ScrapLegPadL				= "左侧废金属腿垫",
+	ItemName_Base.ScrapLegPadR				= "右侧废金属腿垫",
+	ItemName_Base.ScrapLegPadBoltsL			= "带螺栓的左侧废金属腿垫",
+	ItemName_Base.ScrapLegPadBoltsR			= "带螺栓的右侧废金属腿垫",
+	ItemName_Base.ScrapLegPadSign2L			= "带标志的左侧废金属腿垫",
+	ItemName_Base.ScrapLegPadSign2R			= "带标志的右侧废金属腿垫",
+	ItemName_Base.ScrapLegPadSignL			= "带标志的左侧废金属腿垫",
+	ItemName_Base.ScrapLegPadSignR			= "带标志的右侧废金属腿垫",
+
+--scrappauldrons
+	ItemName_Base.ScrapPauldrons			= "轮胎护肩",
+	ItemName_Base.ScrapPauldrons2			= "废金属护肩",
+	ItemName_Base.ScrapPauldrons2Studded	= "带钉废金属护肩",
+--scrapshinplates
+	ItemName_Base.ScrapShinPlateR			= "右侧废金属护胫",
+	ItemName_Base.ScrapShinPlateL			= "左侧废金属护胫",
+	ItemName_Base.ScrapShinPlateStuddedR	= "右侧带钉废金属护胫",
+	ItemName_Base.ScrapShinPlateStuddedL	= "左侧带钉废金属护胫",
+	ItemName_Base.ScrapShinPlate2R			= "右侧加固护胫",
+	ItemName_Base.ScrapShinPlate2L			= "左侧加固护胫",
+--scrapshoulderpads
+	ItemName_Base.ScrapShoulderPadL			= "左侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadR			= "右侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadSawL		= "带锯片的左侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadSawR		= "带锯片的右侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadBoltsL	= "带螺栓的左侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadBoltsR	= "带螺栓的右侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadSignL		= "带标志的左侧废金属护肩垫",
+	ItemName_Base.ScrapShoulderPadSignR		= "带标志的右侧废金属护肩垫",
+--scrapvests
+	ItemName_Base.ScrapVest					= "废金属背心",
+	ItemName_Base.ScrapVestPlated			= "镀板废金属背心",
+	ItemName_Base.ScrapVestSign				= "带标志的废金属背心",
+	ItemName_Base.ScrapVestStudded			= "带钉废金属背心",
+
+}
+

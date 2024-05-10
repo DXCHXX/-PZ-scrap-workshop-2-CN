@@ -1,0 +1,5 @@
+IG_UI_CN = {
+
+    IGUI_ItemCat_Armor = "护甲"
+
+}

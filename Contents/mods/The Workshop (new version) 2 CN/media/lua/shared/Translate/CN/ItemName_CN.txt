@@ -1,0 +1,52 @@
+ItemName_CN = {
+--workshop
+    ItemName_TW.HugePropaneTank 	= "储气罐",
+	ItemName_TW.LargePropaneTank 	= "工业用丙烷罐",
+	ItemName_TW.GunParts 			= "枪支零件",
+	ItemName_TW.AirTank 			= "气罐",
+	ItemName_TW.MetalWorkbench 		= "金属工作台",
+	ItemName_TW.MetalParts 			= "金属零件",
+	ItemName_TW.BoxScrews 			= "小盒螺丝",
+	ItemName_TW.BoxLargeBolts 		= "大螺栓盒",
+	ItemName_TW.LargeBolt 			= "大螺栓",
+	ItemName_TW.Spring 				= "弹簧",
+	ItemName_TW.Chain			 	= "链条",
+	ItemName_TW.Motor 				= "马达",
+	ItemName_TW.File 				= "锉刀",
+	ItemName_TW.Pliers 				= "钳子",
+	ItemName_TW.MetalCutter 		= "金属切割器",
+--magazines
+	ItemName_TW.WorkshopMag1 		= "白痴的DIY手工艺 Vol. 1（拆解）",
+	ItemName_TW.WorkshopMag2 		= "白痴的DIY手工艺 Vol. 2（工具拆卸）",
+	ItemName_TW.WorkshopMag3 		= "蠢货的后院熔炼",
+	ItemName_TW.WorkshopMag4 		= "汽车屠宰简介",
+	ItemName_TW.WorkshopMag5 		= "白痴的DIY手工艺 Vol. 3（复杂拆卸）",
+--smelting
+	ItemName_TW.MetalPipeMold 		= "金属管模具",
+	ItemName_TW.MetalBarMold 		= "金属条模具",
+	ItemName_TW.SmallMetalSheetMold = "小金属板模具",
+	ItemName_TW.PropaneGasFurnace 	= "丙烷气体熔炉",
+
+--equipment
+	ItemName_TW.Toolbelt 			= "工具腰带",
+	ItemName_TW.NailGun 			= "钉枪",
+	ItemName_TW.NailGunMagazine 	= "钉枪弹匣",
+	ItemName_TW.CordlessDrill 		= "无线钻",
+--toolheads
+	ItemName_TW.GolfClubHead 		= "高尔夫球杆头",
+	ItemName_TW.HammerHead 			= "弯曲的锤头",
+	ItemName_TW.SledgeHammerHead 	= "弯曲的大锤头",
+	ItemName_TW.AxeHead 			= "钝斧头",
+	ItemName_TW.SmallBlade 			= "钝小刀",
+	ItemName_TW.SmallMetalBar 		= "弯曲的螺丝刀头",
+	ItemName_TW.MeatCleaverHead 	= "弯曲的菜刀头",
+	ItemName_TW.ScytheHead		 	= "钝镰刀头",
+	ItemName_TW.LongBlade 			= "断裂的长刀头",
+	ItemName_TW.ShovelHead 			= "弯曲的铲头",
+	ItemName_TW.HoeHead 			= "弯曲的锄头头",
+	ItemName_TW.PickaxeHead 		= "断裂的镐头",
+	ItemName_TW.RakeHead 			= "断裂的耙头",
+	ItemName_TW.ForkHead 			= "断裂的叉头",
+
+}
+

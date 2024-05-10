@@ -1,0 +1,21 @@
+Tooltip_CN = {
+--armor
+	Tooltip_ScrapShield 		= "保护你的手臂和躯干",
+	Tooltip_ScrapHandPlate 		= "保护你的手部",
+	Tooltip_ScrapHelmet 		= "保护你的头部",
+	Tooltip_ScrapKilt 			= "保护你的腰部",
+	Tooltip_ScrapLegPad 		= "保护你的腿部",
+	Tooltip_ScrapPauldrons 		= "保护你的颈部",
+	Tooltip_ScrapShinPlate		= "保护你的胫部",
+	Tooltip_ScrapShoulderPad 	= "保护你的肩部",
+	Tooltip_ScrapVest 			= "保护你的胸部",
+--equipment
+	Tooltip_SwordSheath 	= "装备剑",
+	Tooltip_ScrapLegPouch 	= "允许额外装备的存放",
+--magazines	
+	Tooltip_ArmorMag1 	= "教授基本护甲配方",
+	Tooltip_ArmorMag2 	= "将常见物品改造成盾牌",
+	Tooltip_ArmorMag3 	= "用路标升级废金属护甲",
+	Tooltip_ArmorMag4 	= "用螺栓和螺丝升级废金属护甲",
+	Tooltip_ArmorMag5 	= "一些页面丢失或无法阅读",	
+}

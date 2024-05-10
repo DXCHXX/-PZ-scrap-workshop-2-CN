@@ -1,0 +1,94 @@
+Recipes_CN = {
+--workshop
+	recipe_Refill_Propane_Tank 				= "充填丙烷罐",
+    recipe_Refill_Industrial_Propane_Tank 	= "充填工业用丙烷罐",
+	recipe_Refill_Blow_Torch 				= "充填喷火枪",
+	recipe_Remove_Airtank					= "移除空气罐",
+	recipe_Unbox_Large_Bolts 				= "打开大螺丝盒",
+	recipe_Unbox_Screws 					= "打开螺丝盒",
+	recipe_box_Large_Bolts 					= "装箱大螺丝",
+	recipe_box_Screws 						= "装箱螺丝",
+	recipe_Make_File 						= "制作锉刀",
+	recipe_Make_Metal_Workbench 			= "制作金属工作台",
+--smelting
+	recipe_Make_Small_Metal_Sheet_Mold 		= "制作小型金属板材模具",
+	recipe_Make_Metal_Bar_Mold 				= "制作金属条模具",
+	recipe_Make_Metal_Pipe_Mold 			= "制作金属管模具",
+	recipe_Cast_Small_Metal_Sheet 			= "铸造小型金属板材",
+	recipe_Cast_Metal_Bar 					= "铸造金属条",
+	recipe_Cast_Metal_Pipe 					= "铸造金属管",
+	recipe_Cast_Lead_Pipe 					= "铸造铅管",
+	recipe_Assemble_Propane_Gas_Furnace 	= "组装丙烷燃气炉",
+--carscrap
+	recipe_Deconstruct_Car_Battery 			= "拆解汽车电池",
+	recipe_Deconstruct_Car_Suspension 		= "拆解汽车悬挂",
+	recipe_Deconstruct_Car_Brake 			= "拆解汽车刹车",
+	recipe_Deconstruct_Car_Door 			= "拆解汽车车门",
+	recipe_Deconstruct_Car_Gas_Tank 		= "拆解汽车油箱",
+	recipe_Deconstruct_Car_Muffler 			= "拆解汽车消声器",
+	recipe_Deconstruct_Car_Wheel 			= "拆解汽车车轮",
+	recipe_Deconstruct_Car_Seat 			= "拆解汽车座椅",
+
+--tooldisassemble
+	recipe_Disassemble_Battery_Powered_Tool = "拆解电池动力工具",
+	recipe_Disassemble_Golfclub 			= "拆解高尔夫球杆",
+	recipe_Disassemble_Hammer 				= "拆解锤子",
+	recipe_Disassemble_Sledgehammer 		= "拆解大锤",
+	recipe_Disassemble_Axe 					= "拆解斧头",
+	recipe_Disassemble_SmallBlade 			= "拆解小刀",
+	recipe_Disassemble_Screwdriver 			= "拆解螺丝刀",
+	recipe_Disassemble_MeatCleaver 			= "拆解菜刀",
+	recipe_Disassemble_Scythe 				= "拆解镰刀",
+	recipe_Disassemble_LongBlade 			= "拆解长刀",
+	recipe_Disassemble_Shovel 				= "拆解铲子",
+	recipe_Disassemble_Hoe 					= "拆解锄头",
+	recipe_Disassemble_Pickaxe 				= "拆解镐",
+	recipe_Disassemble_Rake 				= "拆解耙子",
+	recipe_Disassemble_Fork 				= "拆解叉子",
+
+--toolscrap
+	recipe_Deconstruct_Crowbar 				= "拆解撬棍",
+	recipe_Deconstruct_Pan 					= "拆解平底锅",
+	recipe_Deconstruct_Fishing_Rod 			= "拆解钓鱼竿",
+	recipe_Deconstruct_Golf_Club_Head 		= "拆解高尔夫球杆头",
+	recipe_Deconstruct_Hammer_Head 			= "拆解锤头",
+	recipe_Deconstruct_SledgeHammer_Head 	= "拆解大锤头",
+	recipe_Deconstruct_Axe_Head 			= "拆解斧头",
+	recipe_Deconstruct_SmallBlade 			= "拆解小刀",
+	recipe_Deconstruct_Small_Metal_Bar 		= "拆解小金属条",
+	recipe_Deconstruct_Meat_Cleaver_Head 	= "拆解菜刀头",
+	recipe_Deconstruct_Scythe_Head 			= "拆解镰刀头",
+	recipe_Deconstruct_Long_Blade_Head 		= "拆解长刀头",
+	recipe_Deconstruct_Wrench 				= "拆解扳手",
+	recipe_Deconstruct_Shovel_Head 			= "拆解铲头",
+	recipe_Deconstruct_Hoe_Head 			= "拆解锄头头",
+	recipe_Deconstruct_Pickaxe_Head 		= "拆解镐头",
+	recipe_Deconstruct_Rake_Head 			= "拆解耙头",
+	recipe_Deconstruct_BarBell 				= "拆解杠铃",
+	recipe_Deconstruct_DumbBell 			= "拆解哑铃",
+	recipe_Deconstruct_Scalpel 				= "拆解手术刀",
+	recipe_Deconstruct_Fork_Head 			= "拆解叉头",
+	recipe_Deconstruct_Tool_Box 			= "拆解工具箱",
+
+--scrap
+	recipe_Combine_MetalParts 				= "合成金属零件",
+	recipe_Deconstruct_Small_Items 			= "拆解小型物品",
+	recipe_Deconstruct_Medium_Items 		= "拆解中型物品",
+	recipe_Deconstruct_Large_Items 			= "拆解大型物品",
+	recipe_Cut_Metal_into_Wire 				= "将金属切割成线",
+--disassemble	
+	recipe_Disassamble_Metal_Armor 			= "拆解金属盔甲",
+	recipe_Disassamble_Gun 					= "拆解枪支",
+	recipe_Disassemble_Gun_Magazine 		= "拆解枪支弹匣",
+	recipe_Disassemble_Motor 				= "拆解马达",
+	
+----modcompatibility
+--aqua
+	recipe_Deconstruct_Boat_Items 			= "拆解船只物品",
+--bcg
+	recipe_Disassemble_Bushcraft_Axe 		= "拆解野外生存斧头",
+	recipe_Disassemble_Bushcraft_SmallBlade = "拆解野外生存小刀",
+	recipe_Disassemble_Bushcraft_LongBlade  = "拆解野外生存长刀",
+
+} 
+	
