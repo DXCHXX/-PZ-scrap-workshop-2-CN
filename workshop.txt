@@ -1,12 +1,12 @@
 version=1
+id=3243397441
 title=the-scrap-workshop-2-CN
 description=Project Zomboid mod the-scrap-workshop 汉化合集
 description=
 description=本项目语言文本翻译使用大语言模型翻译。
 description=
-description=汉化mod地址订阅地址:https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910
-description=汉化mod地址订阅地址:https://steamcommunity.com/sharedfiles/filedetails/?id=2658619264
-description=汉化mod地址订阅地址:https://steamcommunity.com/sharedfiles/filedetails/?id=2122265954
-description=
+description=汉化mod地址订阅地址: https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910
+description=汉化mod地址订阅地址: https://steamcommunity.com/sharedfiles/filedetails/?id=2658619264
+description=汉化mod地址订阅地址: https://steamcommunity.com/sharedfiles/filedetails/?id=2122265954
 tags=Build 41;Language/Translation
 visibility=public
